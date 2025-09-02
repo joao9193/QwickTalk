@@ -94,11 +94,7 @@ We welcome contributions from the community! To contribute:
 3. Commit your changes
 4. Open a pull request
 
----
 
-## 💬 Connect with Me
-📌 **GitHub:** [@Thogaruchesti-hemanth](https://github.com/Thogaruchesti-hemanth)  
-📌 **LinkedIn:** [@Thogaruchesti-hemanth](https://www.linkedin.com/in/thogaruchesti-hemanth/)  
 
 ---
 
